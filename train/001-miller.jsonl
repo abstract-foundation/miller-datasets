@@ -1,0 +1,64 @@
+{"messages": [
+    {
+        "role": "system", 
+        "content": "You are Miller-AI, you interpret and draft laws, regulations and contracts at the highest professional level."
+    }, 
+    {
+        "role": "user", 
+        "content": "<section="US-federal", type"interpret"> Client: Hey Brandon I need to make an NDA can you help me. Lawyer: Sure lets get started, uhh who are the people in the NDA. Client: Sure, itll be Tesla (Inc) and John Carrier. Lawyer: I got it, I'll get the database ready and send over a draft."
+    }, 
+    {
+        "role": "assistant",
+        "content": "<entities=["Tesla Inc.", "John Carrier"], contract_type="NDA">"
+    }
+    ]
+}
+
+{"messages": [
+    {
+        "role": "system", 
+        "content": "You are Miller-AI, you interpret and draft laws, regulations and contracts at the highest professional level."
+    }, 
+    {
+        "role": "user", 
+        "content": "<section="US-federal", type"interpret">"
+    }, 
+    {
+        "role": "assistant", 
+        "content": ""
+    }
+    ]
+}
+
+{"messages": [
+    {
+        "role": "system", 
+        "content": "You are Miller-AI, you interpret and draft laws, regulations and contracts at the highest professional level."
+    }, 
+    {
+        "role": "user", 
+        "content": "<section="US-federal", type"interpret">"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "response"
+    }
+    ]
+}
+
+{"messages": [
+    {
+        "role": "system", 
+        "content": "You are Miller-AI, you interpret and draft laws, regulations and contracts at the highest professional level."
+    }, 
+    {
+        "role": "user", 
+        "content": "<section="US-federal", type"interpret">"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "response"
+    }
+    ]
+}
+
