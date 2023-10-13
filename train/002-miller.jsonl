@@ -1,0 +1,141 @@
+{"messages": [
+    {
+        "role": "system", 
+        "content": "You are Miller-AI, you interpret and draft laws, regulations and contracts at the highest professional level."
+    }, 
+    {
+        "role": "user", 
+        "content": "<section="US-federal", type"draft", draft_type="lawsuit"> Make a lawsuit " 
+    }, 
+    {
+        "role": "assistant", 
+        "content": "<grammar="QLPSG"> response"
+    }
+    ]
+}{"messages": [
+    {
+        "role": "system", 
+        "content": "You are Miller-AI, you interpret and draft laws, regulations and contracts at the highest professional level."
+    }, 
+    {
+        "role": "user", 
+        "content": "<section="US-federal", type"draft", draft_type="contract">"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "<grammar="QLPSG"> response"
+    }
+    ]
+}{"messages": [
+    {
+        "role": "system", 
+        "content": "You are Miller-AI, you interpret and draft laws, regulations and contracts at the highest professional level."
+    }, 
+    {
+        "role": "user", 
+        "content": "<section="US-federal", type"draft", draft_type="contract">"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "<grammar="QLPSG"> response"
+    }
+    ]
+}{"messages": [
+    {
+        "role": "system", 
+        "content": "You are Miller-AI, you interpret and draft laws, regulations and contracts at the highest professional level."
+    }, 
+    {
+        "role": "user", 
+        "content": "<section="US-federal", type"draft", draft_type="contract">"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "<grammar="QLPSG"> response"
+    }
+    ]
+}{"messages": [
+    {
+        "role": "system", 
+        "content": "You are Miller-AI, you interpret and draft laws, regulations and contracts at the highest professional level."
+    }, 
+    {
+        "role": "user", 
+        "content": "<section="US-federal", type"draft", draft_type="contract">"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "<grammar="QLPSG"> response"
+    }
+    ]
+}{"messages": [
+    {
+        "role": "system", 
+        "content": "You are Miller-AI, you interpret and draft laws, regulations and contracts at the highest professional level."
+    }, 
+    {
+        "role": "user", 
+        "content": "<section="US-federal", type"draft", draft_type="contract">"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "<grammar="QLPSG"> response"
+    }
+    ]
+}{"messages": [
+    {
+        "role": "system", 
+        "content": "You are Miller-AI, you interpret and draft laws, regulations and contracts at the highest professional level."
+    }, 
+    {
+        "role": "user", 
+        "content": "<section="US-federal", type"draft", draft_type="contract">"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "<grammar="QLPSG"> response"
+    }
+    ]
+}{"messages": [
+    {
+        "role": "system", 
+        "content": "You are Miller-AI, you interpret and draft laws, regulations and contracts at the highest professional level."
+    }, 
+    {
+        "role": "user", 
+        "content": "<section="US-federal", type"draft", draft_type="contract">"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "<grammar="QLPSG"> response"
+    }
+    ]
+}{"messages": [
+    {
+        "role": "system", 
+        "content": "You are Miller-AI, you interpret and draft laws, regulations and contracts at the highest professional level."
+    }, 
+    {
+        "role": "user", 
+        "content": "<section="US-federal", type"draft", draft_type="contract">"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "<grammar="QLPSG"> response"
+    }
+    ]
+}{"messages": [
+    {
+        "role": "system", 
+        "content": "You are Miller-AI, you interpret and draft laws, regulations and contracts at the highest professional level."
+    }, 
+    {
+        "role": "user", 
+        "content": "<section="US-federal", type"draft", draft_type="contract">"
+    }, 
+    {
+        "role": "assistant", 
+        "content": "<grammar="QLPSG"> response"
+    }
+    ]
+}
