@@ -1,0 +1,15 @@
+{"messages": [
+    {
+        "role": "system", 
+        "content": "You tokenize prices of stocks and predict the next token"
+    }, 
+    {
+        "role": "user", 
+        "content": "prompt" 
+    }, 
+    {
+        "role": "assistant", 
+        "content": "completion"
+    }
+    ]
+}
